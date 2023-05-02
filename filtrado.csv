@@ -1,0 +1,25 @@
+id,nombre,anioCreacion,autor
+6,Cobol,1959, CODASYL
+15,Algol 68,1968,Adriaan van Wijngaarden
+19,Prolog,1972,Alain Colmerauer - Philippe Roussel
+27,Visual Basic,1991,Alan Cooper - Microsoft
+17,Smalltalk-72,1972,Alan Kay
+7,C++,1983,Bjarne Stroustrup
+20,Objective-C,1982,Brad Cox
+12,Javascript,1997,Brendan Eich
+21,MATLAB,1978,Cleve Moler
+1,C,1972,Dennis Ritchie
+26,Delphi,1995,Embarcadero Technologies
+8,Python,1991,Guido van Rossum
+24,Haskell,1990,Haskell Brooks Curry
+13,Java,1995,James Gosling - Sun Microsystems
+23,Ada 83,1979,Jean Ichbiah
+5,Basic,1964,John George Kemeny - Thomas Eugene Kurtz - Mary Kenneth Keller
+18,LISP,1959,John McCarthy
+4,Fortran,1957,John W. Backus
+9,Perl,1987,Larry Wall
+25,QuickBASIC,1985,Microsoft Corporation
+22,CLIPPER,1984,Nantucket Corporation
+2,Pascal,1970,Niklaus Wirth - Kathleen Jensen
+28,PHP,1994,Rasmus Lerdorf
+11,Ruby,1993,Yukihiro Matsumoto
